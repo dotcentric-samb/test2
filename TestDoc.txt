@@ -2,4 +2,4 @@ this is a test
 
 lorem ipsum
 
-dolor sit ametttt
+dolor sit amet
